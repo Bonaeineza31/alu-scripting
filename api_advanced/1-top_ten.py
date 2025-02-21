@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Module to query Reddit API and get top 10 hot posts of a subreddit"""
+"""Module to query Reddit API and get top 10 hot
+ posts of a subreddit"""
 import requests
 
 
